@@ -11,6 +11,12 @@ Supporting both **real-time** and **batch processing**, CloneVoice is perfect fo
 
 ---
 
+## 🗂 Scheme
+
+<img src="./img/img-5.png" alt="Scheme" />
+
+---
+
 ## 🎬 Examples & Demo
 
 <table>
