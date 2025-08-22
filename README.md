@@ -42,53 +42,40 @@ Supporting both **real-time** and **batch processing**, CloneVoice is perfect fo
 </video>
 </div>
 
-[▶️ Слушать аудио (raw)](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_Erhart_cloned.mp3)
+
 
 <table>
     <tbody>
         <tr>
             <td>
-                <audio controls>
-                  <source src="https://github.com/user-attachments/assets/ba83e5e5-5b65-4bdd-9dc5-a45ca0551db6"  type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
+                [▶️ Listen to audio 1](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_Erhart_cloned.mp3)
             </td>
             <td>
-                <audio controls>
-                  <source src="./audio/Adam_Erhart_cloned.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <audio controls>
-                  <source src="https://github.com/user-attachments/files/21934776/Adam_Erhart_cloned.mp3"  type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
+                [▶️ Listen to audio 2](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_male_original.mp3)
             </td>
             <td>
-                <audio controls>
-                  <source src="https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_Erhart_cloned.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
+                [▶️ Listen to audio 3](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Cloned_Natalie_Dawson.mp3)
+            </td>
+            <td>
+                [▶️ Listen to audio 4](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Cloned_Spanish_male.mp3)
             </td>
         </tr>
         <tr>
             <td>
-                [Слушать аудио](./audio/Adam_Erhart_cloned.mp3)
+                [▶️ Listen to audio 5](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Natalie_Dawson_female.mp3)
             </td>
             <td>
-                <audio controls>
-                  <source src="https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_Erhart_cloned.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
+                [▶️ Listen to audio 6](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Original_Spanish_female.mp3)
+            </td>
+            <td>
+                [▶️ Listen to audio 7](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Original_Spanish_male.mp3)
+            </td>
+            <td>
+                [▶️ Listen to audio 8](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Spanish_cloned_female.mp3)
             </td>
         </tr>
     </tbody>
 </table>
-
-[Слушать аудио](./audio/Adam_Erhart_cloned.mp3)
 
 
 ---
