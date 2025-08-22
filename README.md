@@ -76,7 +76,7 @@ Supporting both **real-time** and **batch processing**, CloneVoice is perfect fo
         </tr>
         <tr>
             <td>
-                [Слушать аудио](./audio/audio-file.mp3)
+[Слушать аудио](./audio/audio-file.mp3)
             </td>
             <td>
                 <audio controls>
