@@ -74,6 +74,17 @@ Supporting both **real-time** and **batch processing**, CloneVoice is perfect fo
                 </audio>
             </td>
         </tr>
+        <tr>
+            <td>
+                [Слушать аудио](./audio/audio-file.mp3)
+            </td>
+            <td>
+                <audio controls>
+                  <source src="https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_Erhart_cloned.mp3" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+            </td>
+        </tr>
     </tbody>
 </table>
 
