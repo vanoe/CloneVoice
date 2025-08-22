@@ -49,13 +49,13 @@ Supporting both **real-time** and **batch processing**, CloneVoice is perfect fo
         <tr>
             <td>
                 <audio controls>
-                  <source src="[https://github.com/user-attachments/files/21934776/Adam_Erhart_cloned.mp3](https://github.com/user-attachments/files/21934776/Adam_Erhart_cloned.mp3)">
+                  <source src="[https://github.com/user-attachments/files/21934776/Adam_Erhart_cloned.mp3](https://github.com/user-attachments/files/21934776/Adam_Erhart_cloned.mp3)"  type="audio/mpeg">
                     Your browser does not support the audio element.
                 </audio>
             </td>
             <td>
                 <audio controls>
-                  <source src="" type="audio/mp3">
+                  <source src="./audio/Adam_Erhart_cloned.mp3" type="audio/mpeg">
                     Your browser does not support the audio element.
                 </audio>
             </td>
@@ -63,13 +63,13 @@ Supporting both **real-time** and **batch processing**, CloneVoice is perfect fo
         <tr>
             <td>
                 <audio controls>
-                  <source src="" type="audio/mp3">
+                  <source src="https://github.com/user-attachments/files/21934776/Adam_Erhart_cloned.mp3"  type="audio/mpeg">
                     Your browser does not support the audio element.
                 </audio>
             </td>
             <td>
                 <audio controls>
-                  <source src="" type="audio/mp3">
+                  <source src="https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_Erhart_cloned.mp3" type="audio/mp3">
                     Your browser does not support the audio element.
                 </audio>
             </td>
