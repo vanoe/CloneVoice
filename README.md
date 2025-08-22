@@ -42,23 +42,7 @@ Supporting both **real-time** and **batch processing**, CloneVoice is perfect fo
 </video>
 </div>
 
-[https://github.com/user-attachments/files/21934776/Adam_Erhart_cloned.mp3](https://github.com/user-attachments/files/21934776/Adam_Erhart_cloned.mp3)
-
-
-
-https://github.com/user-attachments/assets/ba83e5e5-5b65-4bdd-9dc5-a45ca0551db6
-
-
-https://gabalpha.github.io/read-audio/?p=./audio/Adam_Erhart_cloned.mp3
-
-https://gabalpha.github.io/read-audio/?p=/audio/Adam_Erhart_cloned.mp3
-
-https://gabalpha.github.io/read-audio/?p=audio/Adam_Erhart_cloned.mp3
-
-<audio controls>
-  <source src="audio/Adam_Erhart_cloned.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[▶️ Слушать аудио (raw)](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_Erhart_cloned.mp3)
 
 <table>
     <tbody>
