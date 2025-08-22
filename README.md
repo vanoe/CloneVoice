@@ -34,11 +34,44 @@ Supporting both **real-time** and **batch processing**, CloneVoice is perfect fo
     </tbody>
 </table>
 
-<div width="500">
+<div style="width: 500px;">
 <video src="https://github.com/user-attachments/assets/e1c3f17a-30af-4448-b11c-57309c440c6d" controls preload>
     Your browser does not support the video tag.
 </video>
 </div>
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <audio controls>
+                  <source src="./audio/Adam_Erhart_cloned.mp3" type="audio/mp3">
+                    Your browser does not support the audio element.
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                  <source src="" type="audio/mp3">
+                    Your browser does not support the audio element.
+                </audio>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <audio controls>
+                  <source src="" type="audio/mp3">
+                    Your browser does not support the audio element.
+                </audio>
+            </td>
+            <td>
+                <audio controls>
+                  <source src="" type="audio/mp3">
+                    Your browser does not support the audio element.
+                </audio>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 ---
