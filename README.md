@@ -13,10 +13,32 @@ Supporting both **real-time** and **batch processing**, CloneVoice is perfect fo
 
 ## 🎬 Examples & Demo
 
-🔗 [View Examples & Video Recordings](https://drive.google.com/drive/folders/1VwfUM-6tdBGj8alQqvVIaoGvxZAM-HvW?usp=sharing)
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <img src="./img/img-1.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-4.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-[![Watch Demo](https://img.youtube.com/vi/-M9EbCDr3LM/0.jpg)](https://www.youtube.com/watch?v=-M9EbCDr3LM)  
-*(Click the thumbnail to watch the demo video on YouTube)*
+<div width="500">
+<video src="" controls preload>
+    Your browser does not support the video tag.
+</video>
+</div>
 
 ---
 
