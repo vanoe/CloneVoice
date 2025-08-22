@@ -45,36 +45,36 @@ Supporting both **real-time** and **batch processing**, CloneVoice is perfect fo
 
 
 <table>
-    <tbody>
-        <tr>
-            <td>
-                [▶️ Listen to audio 1](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_Erhart_cloned.mp3)
-            </td>
-            <td>
-                [▶️ Listen to audio 2](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_male_original.mp3)
-            </td>
-            <td>
-                [▶️ Listen to audio 3](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Cloned_Natalie_Dawson.mp3)
-            </td>
-            <td>
-                [▶️ Listen to audio 4](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Cloned_Spanish_male.mp3)
-            </td>
-        </tr>
-        <tr>
-            <td>
-                [▶️ Listen to audio 5](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Natalie_Dawson_female.mp3)
-            </td>
-            <td>
-                [▶️ Listen to audio 6](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Original_Spanish_female.mp3)
-            </td>
-            <td>
-                [▶️ Listen to audio 7](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Original_Spanish_male.mp3)
-            </td>
-            <td>
-                [▶️ Listen to audio 8](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Spanish_cloned_female.mp3)
-            </td>
-        </tr>
-    </tbody>
+<tbody>
+<tr>
+<td>
+[▶️ Listen to audio 1](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_Erhart_cloned.mp3)
+</td>
+<td>
+[▶️ Listen to audio 2](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Adam_male_original.mp3)
+</td>
+<td>
+[▶️ Listen to audio 3](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Cloned_Natalie_Dawson.mp3)
+</td>
+<td>
+[▶️ Listen to audio 4](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Cloned_Spanish_male.mp3)
+</td>
+</tr>
+<tr>
+<td>
+[▶️ Listen to audio 5](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Natalie_Dawson_female.mp3)
+</td>
+<td>
+[▶️ Listen to audio 6](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Original_Spanish_female.mp3)
+</td>
+<td>
+[▶️ Listen to audio 7](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Original_Spanish_male.mp3)
+</td>
+<td>
+[▶️ Listen to audio 8](https://raw.githubusercontent.com/vanoe/CloneVoice/master/audio/Spanish_cloned_female.mp3)
+</td>
+</tr>
+</tbody>
 </table>
 
 
